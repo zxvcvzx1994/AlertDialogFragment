@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="array">
+        <item>Select All</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>
